@@ -3,7 +3,7 @@
 I'm a computer science student at SPBSTU who likes coding web on Python and sometimes on HTML / CSS / JavaScript. 
 
 - :hammer_and_pick:  Python / SQL / CSS / JavaScript
-- :triangular_ruler: PostgreSQL / Docker / Celery
+- :triangular_ruler: PostgreSQL / Docker / Celery / NGINX
 - :computer: ArchLinux / NeoVim / VS Code
 - :tennis: Computers / Reading / Handmade / Movies 
 - :green_book: [My Portfolio](https://anomorch.github.io/my-portfolio-wo-backend/)
