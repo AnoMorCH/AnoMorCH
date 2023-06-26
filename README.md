@@ -1,16 +1,15 @@
-### Hi there 👋
+### CS student at SPBSTU | Python Web Developer
 
-<!--
-**AnoMorCH/AnoMorCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student at SPBSTU who likes coding web on Python and sometimes on HTML / CSS / JavaScript. 
 
-Here are some ideas to get you started:
+- :hammer_and_pick:  Python / SQL / CSS / JavaScript
+- :triangular_ruler: PostgreSQL / Docker / Celery
+- :computer: ArchLinux / NeoVim / VS Code
+- :tennis: Computers / Reading / Handmade / Movies 
+- :green_book: [My Portfolio](https://anomorch.github.io/my-portfolio-wo-backend/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you're interested in making something wonderful together, feel free to connect with me using
+- ![Telegram Logo](https://icons.iconarchive.com/icons/froyoshark/enkel/16/Telegram-icon.png) Telegram - https://t.me/anomorch
+- ![Gmail Icon](https://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Gmail-icon.png) Gmail - morozovantonaleksandrovich@gmail.com
+
+I'm fluent in :ru:Russian and :gb:English.
