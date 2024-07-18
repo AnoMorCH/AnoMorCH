@@ -2,9 +2,9 @@
 
 I'm a programmer who likes coding web on Python and plain HTML / CSS / JavaScript using Webpack. 
 
-- :hammer_and_pick:  Python / pytest / SQL / CSS / JavaScript
+- :hammer_and_pick:  Python / PostgreSQL / HTML / CSS / JavaScript
 - :earth_africa: Django / Flask / FastAPI
-- :triangular_ruler: PostgreSQL / Docker / Celery / NGINX / Apache
+- :triangular_ruler: pytest / Docker / Celery / NGINX
 - :computer: ArchLinux / NeoVim / VS Code
 - :tennis: Computers / Reading / Handmade / Movies 
 - :green_book: [My Portfolio](https://anomorch.vercel.app/)
